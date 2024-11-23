@@ -73,15 +73,3 @@ history_button=ttk.Button(text="Показать историю", command=show_h
 history_button.pack()
 
 window.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
